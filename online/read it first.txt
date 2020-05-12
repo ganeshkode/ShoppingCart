@@ -1,0 +1,9 @@
+go to http://localhost/online/admin.php to add products to homepage.
+
+all the tables will be auto created you don't have to create any table
+mannualy.
+
+if you insert the image from the admin page, the image will be saved to
+allproducts folder, which i have created.
+
+if any problem occur, call me.
