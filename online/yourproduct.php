@@ -7,7 +7,7 @@
 	<title>Proceed to buy</title>
 </head>
 <body>
-<h1>Wencome To The Shopping Mart</h1>
+<h1>Welcome To The Shopping Mart</h1>
 <div id="header">
 	<span id="page">Proceed to buy</span>
 	<button class="button1"><a href="index.php">Home</a></button>
